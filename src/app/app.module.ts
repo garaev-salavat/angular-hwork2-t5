@@ -16,9 +16,7 @@ import {MatSelectModule} from '@angular/material/select';
     BrowserModule,
     BrowserAnimationsModule,
     MatButtonModule,
-    MatMenuModule,
-    MatFormFieldModule,
-    MatSelectModule
+    MatMenuModule
   ],
   providers: [],
   bootstrap: [AppComponent]
